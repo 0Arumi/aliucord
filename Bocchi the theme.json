@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "🟦Arumi🟨#0319",
+        "name": "Bocchi The Theme",
+        "version": "1.2",
+        "license": "me arumi"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/527443715690594304\/1067836970354622576\/IMG_20230125_170242.png",
+        "overlay_alpha": 50,
+        "blur_radius": 10
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -361745,
+        "background": -7512988,
+        "background_secondary": -10404797
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
